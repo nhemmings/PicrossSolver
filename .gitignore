@@ -357,4 +357,9 @@ MigrationBackup/
 .ionide/
 
 # Include SFML libraries
-!/sfml
+!sfml/lib/debug
+!sfml/lib/release
+!sfml/bin/debug
+!sfml/bin/debug/*.dll
+!sfml/bin/release
+!sfml/bin/release/*.dll
