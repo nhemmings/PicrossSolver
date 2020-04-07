@@ -359,7 +359,6 @@ MigrationBackup/
 # Include SFML libraries
 !sfml/lib/debug
 !sfml/lib/release
+!sfml/bin
 !sfml/bin/debug
-!sfml/bin/debug/*.dll
 !sfml/bin/release
-!sfml/bin/release/*.dll
